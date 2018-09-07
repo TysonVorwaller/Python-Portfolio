@@ -1,7 +1,7 @@
 #Tyson Vorwaller periods 4&5
 #Mad Lib
 #Blank fill ins
-word1 = "pencils."
+word1 = "pencils." 
 word2 = "sniff new cars."
 word3 = "life"
 word4 = "run for my life"
