@@ -12,7 +12,7 @@ def menu():
             username = get_username()
             password = get_password()
             choice = 0
-
+ 
         elif choice == 2:
             print("choice 2")
             login = check_account(username, password)

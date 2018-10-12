@@ -3,8 +3,8 @@
 #10/12/18
 #Combat System
 import random
- 
-win=0
+  
+win=0 
 pHP = 100
 mHP = 1000
 print("You are King Arthur and is now faced against an horde of deadly rabbits.")

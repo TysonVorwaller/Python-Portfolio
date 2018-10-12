@@ -10,5 +10,5 @@ word6= "Dr. Phil"
 #Story
 print("My favorite food is ", word1, "And I like to ", word2, "I wish I had a ", word3 + ".", "And on the weekends I", word4 + "." + "I have a pet ", word5, "named", word6 + ".")
 input()
-#Made change in Git 
+#Made change in Git
 #second push
