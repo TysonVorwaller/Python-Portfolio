@@ -37,3 +37,4 @@ if health <= 0:
     print("Your hero fought valiantly and defeated", trolls,"trolls.")
     print("But alas, your hero is no more.")
     
+ 

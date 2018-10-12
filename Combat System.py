@@ -3,7 +3,7 @@
 #10/12/18
 #Combat System
 import random
-
+ 
 win=0
 pHP = 100
 mHP = 1000

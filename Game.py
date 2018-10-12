@@ -19,4 +19,4 @@ def clock():
     return cur_sec,cur_min,cur_hrs
 while True:
     s,m,h=clock()
-    
+     
