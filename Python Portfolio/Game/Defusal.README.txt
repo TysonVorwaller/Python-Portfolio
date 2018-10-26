@@ -1,0 +1,27 @@
+This is a bomb defusal game that doesn't takes itself that seriously.
+
+Command List:
+y or yes
+n or no
+
+defuse --- red , yellow , or blue
+
+yell --- spit or joke
+
+get_mad
+
+scream
+
+shrek
+
+look
+
+wallbreak
+
+yeet
+
+dab
+
+giveup
+
+equip_sword --- power_yell or swing

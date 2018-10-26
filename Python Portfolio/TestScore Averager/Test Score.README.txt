@@ -1,0 +1,1 @@
+A program that will calculate an average of ten test scores.
